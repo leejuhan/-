@@ -1,0 +1,40 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\obj\Release\GMARKET.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\bin\Release\GMARKET.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\bin\Release\GMARKET.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\bin\Release\HtmlAgilityPack.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\bin\Release\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\bin\Release\HtmlAgilityPack.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\bin\Release\HtmlAgilityPack.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\obj\Release\GMARKET.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\obj\Release\GMARKET.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\GMARKET\bin\Release\GMARKET.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\GMARKET\bin\Release\GMARKET.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\GMARKET\bin\Release\HtmlAgilityPack.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\GMARKET\bin\Release\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\GMARKET\bin\Release\HtmlAgilityPack.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\GMARKET\bin\Release\HtmlAgilityPack.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\GMARKET\obj\Release\GMARKET.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\GMARKET\obj\Release\GMARKET.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\GMARKET\obj\Release\GMARKET.pdb
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\bin\Release\GMARKET.dll
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\bin\Release\GMARKET.pdb
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\bin\Release\HtmlAgilityPack.pdb
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\bin\Release\HtmlAgilityPack.xml
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\obj\Release\GMARKET.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\obj\Release\GMARKET.dll
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\obj\Release\GMARKET.pdb
+D:\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\bin\Release\GMARKET.dll
+D:\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\bin\Release\GMARKET.pdb
+D:\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\bin\Release\HtmlAgilityPack.pdb
+D:\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\bin\Release\HtmlAgilityPack.xml
+D:\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\obj\Release\GMARKET.csprojResolveAssemblyReference.cache
+D:\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\obj\Release\GMARKET.dll
+D:\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\obj\Release\GMARKET.pdb
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\bin\Release\GMARKET.dll
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\bin\Release\GMARKET.pdb
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\bin\Release\HtmlAgilityPack.pdb
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\bin\Release\HtmlAgilityPack.xml
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\obj\Release\GMARKET.csprojResolveAssemblyReference.cache
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\obj\Release\GMARKET.csproj.CoreCompileInputs.cache
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\obj\Release\GMARKET.dll
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\GMARKET\obj\Release\GMARKET.pdb

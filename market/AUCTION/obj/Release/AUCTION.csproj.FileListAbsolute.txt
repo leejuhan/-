@@ -1,0 +1,46 @@
+C:\Users\user\documents\visual studio 2015\Projects\market\AUCTION\bin\Release\AUCTION.dll
+C:\Users\user\documents\visual studio 2015\Projects\market\AUCTION\bin\Release\AUCTION.pdb
+C:\Users\user\documents\visual studio 2015\Projects\market\AUCTION\bin\Release\HtmlAgilityPack.dll
+C:\Users\user\documents\visual studio 2015\Projects\market\AUCTION\bin\Release\HtmlAgilityPack.pdb
+C:\Users\user\documents\visual studio 2015\Projects\market\AUCTION\bin\Release\HtmlAgilityPack.xml
+C:\Users\user\documents\visual studio 2015\Projects\market\AUCTION\obj\Release\AUCTION.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2015\Projects\market\AUCTION\obj\Release\AUCTION.dll
+C:\Users\user\documents\visual studio 2015\Projects\market\AUCTION\obj\Release\AUCTION.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\AUCTION\bin\Release\AUCTION.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\AUCTION\bin\Release\AUCTION.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\AUCTION\bin\Release\HtmlAgilityPack.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\AUCTION\bin\Release\HtmlAgilityPack.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\AUCTION\bin\Release\HtmlAgilityPack.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\AUCTION\obj\Release\AUCTION.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\AUCTION\obj\Release\AUCTION.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\AUCTION\obj\Release\AUCTION.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\AUCTION\bin\Release\AUCTION.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\AUCTION\bin\Release\AUCTION.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\AUCTION\bin\Release\HtmlAgilityPack.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\AUCTION\bin\Release\HtmlAgilityPack.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\AUCTION\bin\Release\HtmlAgilityPack.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\AUCTION\obj\Release\AUCTION.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\AUCTION\obj\Release\AUCTION.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\AUCTION\obj\Release\AUCTION.pdb
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\bin\Release\AUCTION.dll
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\bin\Release\AUCTION.pdb
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\bin\Release\HtmlAgilityPack.pdb
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\bin\Release\HtmlAgilityPack.xml
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\obj\Release\AUCTION.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\obj\Release\AUCTION.dll
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\obj\Release\AUCTION.pdb
+D:\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\bin\Release\AUCTION.dll
+D:\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\bin\Release\AUCTION.pdb
+D:\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\bin\Release\HtmlAgilityPack.pdb
+D:\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\bin\Release\HtmlAgilityPack.xml
+D:\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\obj\Release\AUCTION.csprojResolveAssemblyReference.cache
+D:\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\obj\Release\AUCTION.dll
+D:\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\obj\Release\AUCTION.pdb
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\bin\Release\AUCTION.dll
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\bin\Release\AUCTION.pdb
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\bin\Release\HtmlAgilityPack.pdb
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\bin\Release\HtmlAgilityPack.xml
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\obj\Release\AUCTION.csprojResolveAssemblyReference.cache
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\obj\Release\AUCTION.csproj.CoreCompileInputs.cache
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\obj\Release\AUCTION.dll
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\AUCTION\obj\Release\AUCTION.pdb

@@ -1,0 +1,45 @@
+C:\Users\user\documents\visual studio 2015\Projects\market\11MAKET\bin\Release\11MAKET.dll
+C:\Users\user\documents\visual studio 2015\Projects\market\11MAKET\bin\Release\11MAKET.pdb
+C:\Users\user\documents\visual studio 2015\Projects\market\11MAKET\bin\Release\HtmlAgilityPack.dll
+C:\Users\user\documents\visual studio 2015\Projects\market\11MAKET\bin\Release\HtmlAgilityPack.pdb
+C:\Users\user\documents\visual studio 2015\Projects\market\11MAKET\bin\Release\HtmlAgilityPack.xml
+C:\Users\user\documents\visual studio 2015\Projects\market\11MAKET\obj\Release\11MAKET.dll
+C:\Users\user\documents\visual studio 2015\Projects\market\11MAKET\obj\Release\11MAKET.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\11MAKET\bin\Release\11MAKET.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\11MAKET\bin\Release\11MAKET.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\11MAKET\bin\Release\HtmlAgilityPack.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\11MAKET\bin\Release\HtmlAgilityPack.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\11MAKET\bin\Release\HtmlAgilityPack.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\11MAKET\obj\Release\11MAKET.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\11MAKET\obj\Release\11MAKET.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\11MAKET\obj\Release\11MAKET.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\11MAKET\bin\Release\11MAKET.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\11MAKET\bin\Release\11MAKET.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\11MAKET\bin\Release\HtmlAgilityPack.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\11MAKET\bin\Release\HtmlAgilityPack.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\11MAKET\bin\Release\HtmlAgilityPack.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\11MAKET\obj\Release\11MAKET.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\11MAKET\obj\Release\11MAKET.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.30\11MAKET\obj\Release\11MAKET.pdb
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\bin\Release\11MAKET.dll
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\bin\Release\11MAKET.pdb
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\bin\Release\HtmlAgilityPack.pdb
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\bin\Release\HtmlAgilityPack.xml
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\obj\Release\11MAKET.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\obj\Release\11MAKET.dll
+C:\Users\user\Desktop\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\obj\Release\11MAKET.pdb
+D:\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\bin\Release\11MAKET.dll
+D:\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\bin\Release\11MAKET.pdb
+D:\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\bin\Release\HtmlAgilityPack.pdb
+D:\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\bin\Release\HtmlAgilityPack.xml
+D:\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\obj\Release\11MAKET.csprojResolveAssemblyReference.cache
+D:\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\obj\Release\11MAKET.dll
+D:\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\obj\Release\11MAKET.pdb
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\bin\Release\11MAKET.dll
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\bin\Release\11MAKET.pdb
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\bin\Release\HtmlAgilityPack.pdb
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\bin\Release\HtmlAgilityPack.xml
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\obj\Release\11MAKET.csprojResolveAssemblyReference.cache
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\obj\Release\11MAKET.csproj.CoreCompileInputs.cache
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\obj\Release\11MAKET.dll
+D:\포트폴리오\현장학습 보고서\market2 구매정보통합 완성작1\11MAKET\obj\Release\11MAKET.pdb

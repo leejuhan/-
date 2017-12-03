@@ -1,0 +1,24 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\market\GMARKET\bin\Debug\GMARKET.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market\GMARKET\bin\Debug\GMARKET.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market\GMARKET\bin\Debug\HtmlAgilityPack.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market\GMARKET\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market\GMARKET\bin\Debug\HtmlAgilityPack.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\market\GMARKET\obj\Debug\GMARKET.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market\GMARKET\obj\Debug\GMARKET.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2\GMARKET\bin\Debug\GMARKET.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2\GMARKET\bin\Debug\GMARKET.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2\GMARKET\bin\Debug\HtmlAgilityPack.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2\GMARKET\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2\GMARKET\bin\Debug\HtmlAgilityPack.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2\GMARKET\obj\Debug\GMARKET.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2\GMARKET\obj\Debug\GMARKET.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2\GMARKET\obj\Debug\GMARKET.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\bin\Debug\GMARKET.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\bin\Debug\GMARKET.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\bin\Debug\HtmlAgilityPack.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\bin\Debug\HtmlAgilityPack.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\obj\Debug\GMARKET.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\obj\Debug\GMARKET.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\obj\Debug\GMARKET.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\market2 8.22가장 쓰레드작업전\GMARKET\bin\Debug\Newtonsoft.Json.dll

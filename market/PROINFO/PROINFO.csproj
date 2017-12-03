@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{825B1FD8-2180-49DB-9864-EBA726B14EB8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PROINFO</RootNamespace>
+    <AssemblyName>PROINFO</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ProINfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\11MAKET\11MAKET.csproj">
+      <Project>{f834fbad-42b3-4afc-884c-6170564d0061}</Project>
+      <Name>11MAKET</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AUCTION\AUCTION.csproj">
+      <Project>{d31cec0c-3fb8-457e-af43-93d331577aa0}</Project>
+      <Name>AUCTION</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CJMALL\CJMALL.csproj">
+      <Project>{687be7ca-c358-4298-91d9-237d8ba6dbbd}</Project>
+      <Name>CJMALL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CONNECTDANAWA\CONNECTDANAWA.csproj">
+      <Project>{3945f60a-19da-42fb-bc3e-b6feda5cad74}</Project>
+      <Name>CONNECTDANAWA</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CONNECTNAVER\CONNECTNAVER.csproj">
+      <Project>{e3b7cde6-8114-4c87-b54f-3dc69f08aa9f}</Project>
+      <Name>CONNECTNAVER</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GMARKET\GMARKET.csproj">
+      <Project>{9cede211-23f5-4bf1-8eec-fa18b87cfe54}</Project>
+      <Name>GMARKET</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GSSHOP\GSSHOP.csproj">
+      <Project>{7a929a2b-bb1e-451e-a680-a3ed35fbf6d5}</Project>
+      <Name>GSSHOP</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LISTBEAN\LISTBEAN.csproj">
+      <Project>{660ed980-1cef-4ebb-a275-b64340dc3851}</Project>
+      <Name>LISTBEAN</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NAVER\NAVER.csproj">
+      <Project>{d9a184c5-6c81-428f-9aa5-46d12df7aced}</Project>
+      <Name>NAVER</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
